@@ -1,4 +1,4 @@
-## Hello Everyone 👋 This is Vijayaragavan Nanthakumar – Java Developer  
+## Hello Everyone 👋 This is Vijayaragavan N– Java Developer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vijayaragavan05&color=blueviolet&style=flat-square)  
 
